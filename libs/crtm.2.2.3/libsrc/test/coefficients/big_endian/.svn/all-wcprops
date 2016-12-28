@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian
+END
+atms_npp.SpcCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/atms_npp.SpcCoeff.bin
+END
+NPOESS.VISwater.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/NPOESS.VISwater.EmisCoeff.bin
+END
+CloudCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/CloudCoeff.bin
+END
+cris399_npp.SpcCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/cris399_npp.SpcCoeff.bin
+END
+Nalli.IRwater.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/Nalli.IRwater.EmisCoeff.bin
+END
+WuSmith.IRwater.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/WuSmith.IRwater.EmisCoeff.bin
+END
+atms_npp.TauCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/atms_npp.TauCoeff.bin
+END
+NPOESS.VISsnow.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/NPOESS.VISsnow.EmisCoeff.bin
+END
+cris399_npp.TauCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/cris399_npp.TauCoeff.bin
+END
+NPOESS.IRland.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/NPOESS.IRland.EmisCoeff.bin
+END
+IGBP.VISland.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/IGBP.VISland.EmisCoeff.bin
+END
+USGS.VISland.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/USGS.VISland.EmisCoeff.bin
+END
+NPOESS.IRsnow.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/NPOESS.IRsnow.EmisCoeff.bin
+END
+NPOESS.VISice.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/NPOESS.VISice.EmisCoeff.bin
+END
+FASTEM4.MWwater.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/FASTEM4.MWwater.EmisCoeff.bin
+END
+IGBP.IRland.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/IGBP.IRland.EmisCoeff.bin
+END
+FASTEM5.MWwater.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/FASTEM5.MWwater.EmisCoeff.bin
+END
+USGS.IRland.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/USGS.IRland.EmisCoeff.bin
+END
+FASTEM6.MWwater.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/FASTEM6.MWwater.EmisCoeff.bin
+END
+AerosolCoeff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/AerosolCoeff.nc
+END
+NPOESS.IRice.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/NPOESS.IRice.EmisCoeff.bin
+END
+atms_npp.SpcCoeff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/atms_npp.SpcCoeff.nc
+END
+CloudCoeff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/CloudCoeff.nc
+END
+Nalli.IRwater.EmisCoeff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/Nalli.IRwater.EmisCoeff.nc
+END
+WuSmith.IRwater.EmisCoeff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/WuSmith.IRwater.EmisCoeff.nc
+END
+atms_npp.TauCoeff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/atms_npp.TauCoeff.nc
+END
+NPOESS.VISland.EmisCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/NPOESS.VISland.EmisCoeff.bin
+END
+cris399_npp.TauCoeff.nc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/cris399_npp.TauCoeff.nc
+END
+AerosolCoeff.bin
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projects/!svn/ver/60152/crtm/releases/REL-2.2.3/libsrc/test/coefficients/big_endian/AerosolCoeff.bin
+END

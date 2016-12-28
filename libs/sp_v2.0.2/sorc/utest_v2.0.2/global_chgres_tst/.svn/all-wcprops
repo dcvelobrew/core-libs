@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst
+END
+machine_8.f
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/machine_8.f
+END
+makefile.sh_mrth
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_mrth
+END
+Makefile_my
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/Makefile_my
+END
+gfsio_rst.f
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/gfsio_rst.f
+END
+testrun_em
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun_em
+END
+testrun_3
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun_3
+END
+machine.f
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/machine.f
+END
+testrun_nwp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun_nwp
+END
+nrlmsise00_sub.f
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/nrlmsise00_sub.f
+END
+makefile.sh_mkl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_mkl
+END
+sfcsub.f_orig
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/sfcsub.f_orig
+END
+physcons.f
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/physcons.f
+END
+vintg_idea.f
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/vintg_idea.f
+END
+num_parthds.f_w
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/num_parthds.f_w
+END
+makefile.sh_sp_v2
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_sp_v2
+END
+chgres.f_mkl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/chgres.f_mkl
+END
+testrun-384_ScaleOMP
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun-384_ScaleOMP
+END
+makefile.sh_o
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_o
+END
+global_chgres.sh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/global_chgres.sh
+END
+testrun
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun
+END
+testrun-574_ScaleOMP
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun-574_ScaleOMP
+END
+wnew.f
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/wnew.f
+END
+test-584-254
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/test-584-254
+END
+makefile.sh_em
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_em
+END
+Makefile_mrth
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/Makefile_mrth
+END
+surface_chgres.f
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/surface_chgres.f
+END
+makefile.sh_s
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_s
+END
+num_parthds.f
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/num_parthds.f
+END
+nrlmsise00_sub.f_orig
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/nrlmsise00_sub.f_orig
+END
+makefile.sh_nwp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_nwp
+END
+testrun_mth
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun_mth
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/Makefile
+END
+makefile.sh_nwprod
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_nwprod
+END
+num_parthds.f_org
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/num_parthds.f_org
+END
+Makefile_mkl_O3
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/Makefile_mkl_O3
+END
+testrun-574
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun-574
+END
+funcphys.f
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/funcphys.f
+END
+testrun_ex4
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/testrun_ex4
+END
+nstio_module.f
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/nstio_module.f
+END
+makefile.sh_emX_nwpSP
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_emX_nwpSP
+END
+makefile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh
+END
+sfcsub.f_n
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/sfcsub.f_n
+END
+chgres.f_numres
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/chgres.f_numres
+END
+makefile_o
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile_o
+END
+global_chgres.sh_mrth
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/global_chgres.sh_mrth
+END
+makefile.sh_emX
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_emX
+END
+chgres.f
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/chgres.f
+END
+test.f
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/test.f
+END
+nsst_chgres.f
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/nsst_chgres.f
+END
+makefile.sh_mkl_fast
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_mkl_fast
+END
+makefile.sh_emX_v2
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile.sh_emX_v2
+END
+surface_chgres.F
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/surface_chgres.F
+END
+sfcsub.f
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/sfcsub.f
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/makefile
+END
+USERS_GUIDE
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/global_chgres_tst/USERS_GUIDE
+END

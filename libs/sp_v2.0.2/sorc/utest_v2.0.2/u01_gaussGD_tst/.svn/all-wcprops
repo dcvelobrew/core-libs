@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst
+END
+test_results
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/test_results
+END
+test_results.20140731
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/test_results.20140731
+END
+exe-4
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/exe-4
+END
+exe-d
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/exe-d
+END
+exe-8
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/exe-8
+END
+gausslat.f
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/gausslat.f
+END
+comp_exe+mkl-fftmkl.sh
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/comp_exe+mkl-fftmkl.sh
+END
+comp_exe_genALL.sh
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/comp_exe_genALL.sh
+END
+comp_exe_genALL_moorthi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/comp_exe_genALL_moorthi.sh
+END
+gausslat_driver.f90
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/gausslat_driver.f90
+END
+good_compile+test_lst
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/projects/!svn/ver/56499/nwprod/branches/Theia/theia_bid_of_w_g05142015/sp_v2.0.2/sorc/utest_v2.0.2/u01_gaussGD_tst/good_compile+test_lst
+END
